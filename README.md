@@ -98,4 +98,5 @@ The cleaning and SQL steps run **automatically** on first launch.
 ## 👨‍💻 Author
 
 **Tushar Methi** — B.Tech CSE, Poornima University (Batch 2027)  
-[GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+[GitHub](https://github.com/tusharmethi) · [LinkedIn](https://linkedin.com/in/tushar-methi-400435292
+)
