@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Sales Analytics Dashboard
+# E-Commerce Sales Analytics Dashboard
 
 An interactive sales analytics dashboard built with **Python, Pandas, SQL, Streamlit, and Plotly** — analyzing 9,994 retail orders across 2022–2023.
 
@@ -10,7 +10,7 @@ An interactive sales analytics dashboard built with **Python, Pandas, SQL, Strea
 
 ---
 
-## 📊 Features
+## Features
 
 - **KPI Cards** — Total Revenue, Profit, AOV, Margin, Orders
 - **Monthly Revenue & Profit Trend** — Bar + line combo chart
@@ -24,7 +24,7 @@ An interactive sales analytics dashboard built with **Python, Pandas, SQL, Strea
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 ecommerce-dashboard/
@@ -44,7 +44,7 @@ ecommerce-dashboard/
 
 ---
 
-## 🚀 Run Locally
+## Run Locally
 
 ```bash
 # 1. Clone the repo
@@ -62,7 +62,7 @@ The cleaning and SQL steps run **automatically** on first launch.
 
 ---
 
-## 🧹 Data Cleaning (Pandas)
+## Data Cleaning (Pandas)
 
 - Renamed columns to `snake_case`
 - Filled 1 null in `ship_mode` with `"Unknown"`
@@ -72,7 +72,7 @@ The cleaning and SQL steps run **automatically** on first launch.
 
 ---
 
-## 🗄️ SQL Aggregations (SQLite)
+## SQL Aggregations (SQLite)
 
 | Query | Description |
 |-------|-------------|
@@ -86,7 +86,7 @@ The cleaning and SQL steps run **automatically** on first launch.
 
 ---
 
-## 📦 Dataset
+## Dataset
 
 - **Source:** [Kaggle — Retail Orders](https://www.kaggle.com/datasets/ankitbansal06/retail-orders)
 - **Rows:** 9,994
@@ -95,7 +95,7 @@ The cleaning and SQL steps run **automatically** on first launch.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Tushar Methi** — B.Tech CSE, Poornima University (Batch 2027)  
 [GitHub](https://github.com/tusharmethi) · [LinkedIn](https://linkedin.com/in/tushar-methi-400435292
